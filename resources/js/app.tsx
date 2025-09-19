@@ -6,7 +6,7 @@ const App = () => {
         <>
         
         <div className='container'>
-            <Icon iconNode={}></Icon>
+            
         </div>
 
         
